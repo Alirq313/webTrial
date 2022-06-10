@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @Alirq313
+- 👋 Hi, I’m @Alirq313
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning Swift, Python, C# and more.
 - 💞️ I’m looking to collaborate on my upcoming projects.
