@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alirq313
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning Swift, Python, C# and more.
+- 🌱 I’m currently learning Swift, Python, C#, JavaScript and more.
 - 💞️ I’m looking to collaborate on my upcoming projects.
 - 📫 How to reach me alirq.dev@gmail.com
 
